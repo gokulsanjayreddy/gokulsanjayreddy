@@ -1,6 +1,4 @@
 ## GitHub stats
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsanjayreddy&show_icons=true&count_private=true&theme=dark&hide_border=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=gokulsanjayreddy&theme=dark&hide_border=false)<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsanjayreddy&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark)
