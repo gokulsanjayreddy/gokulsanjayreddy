@@ -1,4 +1,4 @@
-##GitHub stats
+## GitHub stats
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulsanjayreddy&show_icons=true&count_private=true&theme=dark&hide_border=true)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=gokulsanjayreddy&theme=dark&hide_border=false)<br>
 
