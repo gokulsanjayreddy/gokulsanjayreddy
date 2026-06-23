@@ -3,7 +3,6 @@
 <!-- Typing SVG header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gokul+Sanjay+Reddy+%F0%9F%91%8B;AI-ML+Enthusiast+%7C+IIT+Bhilai)](https://git.io/typing-svg)
 
-<br/><br/>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulsanjayreddychatrala/)
