@@ -23,7 +23,7 @@
 ```python
 class GokulSanjayReddy:
     name       = "Chatrala Gokul Sanjay Reddy"
-    location   = "Raipur, India 🇮🇳"
+    location   = "Bhilai, India 🇮🇳"
     institute  = "Indian Institute of Technology Bhilai"
     focus      = ["Machine Learning", "Task Automation", "Data Analysis"]
     languages  = ["Python", "Markdown", "HTML", "CSS"]
@@ -35,7 +35,7 @@ class GokulSanjayReddy:
 - ⚡ **Passionate about** automating repetitive tasks and making workflows faster
 - 🌱 **Exploring** Python data libraries, Flask web apps, and ML pipelines
 - 🤝 **Open to** collaborating on Python / ML / Web projects
-- 📍 **Based in** Raipur, India
+- 📍 **Based in** Bhilai, India
 
 ---
 
