@@ -11,8 +11,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gokulsanjayredd)
 &nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gokulsanjayreddy)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulsanjayreddy)
 
 <br/><br/>
 
@@ -77,22 +75,58 @@ class GokulSanjayReddy:
 
 ## 📊 GitHub Stats
 
-###### Profile Overview
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsanjayreddy&theme=dark)](https://github.com/gokulsanjayreddy)
+<div align="center">
+</div>
 
-###### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=gokulsanjayreddy&hide_border=true&background=151515&ring=green&fire=green&currStreakLabel=green&sideLabels=e0e0e0&dates=888888&stroke=2d2d2d&currStreakNum=F0DEB4&sideNums=e0e0e0)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsanjayreddy&theme=dark" alt="Profile Details" />
+  </a>
+</div>
 
-###### Language Breakdown
-[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark)](https://github.com/gokulsanjayreddy) [![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark)](https://github.com/gokulsanjayreddy)
+<br />
 
-###### Activity & Productivity
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulsanjayreddy&theme=dark)](https://github.com/gokulsanjayreddy) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulsanjayreddy&theme=dark&utcOffset=5.3)](https://github.com/gokulsanjayreddy)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=gokulsanjayreddy&hide_border=true&background=151515&ring=green&fire=green&currStreakLabel=green&sideLabels=e0e0e0&dates=888888&stroke=2d2d2d&currStreakNum=F0DEB4&sideNums=e0e0e0" alt="GitHub Streak" />
+  </a>
+</div>
 
-###### Top Languages
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsanjayreddy&layout=compact&theme=dark&hide_border=true&card_width=400)](https://github.com/gokulsanjayreddy)
+<br />
 
-###### Contribution Graph
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsanjayreddy&theme=dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true)](https://github.com/gokulsanjayreddy)
+<div align="center">
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark" alt="Repos per Language" />
+  </a>
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark" alt="Most Commit Language" />
+  </a>
+</div>
 
+<br />
+
+<div align="center">
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulsanjayreddy&theme=dark" alt="Stats" />
+  </a>
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulsanjayreddy&theme=dark&utcOffset=5.3" alt="Productive Time" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsanjayreddy&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/gokulsanjayreddy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsanjayreddy&theme=dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true" alt="My GitHub activity graph" />
+  </a>
+</div>
 
