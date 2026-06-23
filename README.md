@@ -97,7 +97,7 @@ class GokulSanjayReddy:
 
 <div align="center">
   <a href="https://github.com/gokulsanjayreddy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsanjayreddy&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsanjayreddy&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages"/>
   </a>
 </div>
 
