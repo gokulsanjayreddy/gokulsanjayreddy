@@ -96,11 +96,3 @@ class GokulSanjayReddy:
 [![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsanjayreddy&theme=dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true)](https://github.com/gokulsanjayreddy)
 
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulsanjayreddy&label=Profile+Views&color=00FF00&style=flat" alt="Profile Views" />
-
-  <br/><br/>
-
-  *"Automate the boring, focus on the brilliant."*
-</div>
