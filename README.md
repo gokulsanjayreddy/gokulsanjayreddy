@@ -52,13 +52,13 @@ class GokulSanjayReddy:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -72,11 +72,7 @@ class GokulSanjayReddy:
 | [**GitStartedWithUs v2**](https://github.com/gokulsanjayreddy/gitstartedwithus_v2) | Collaborative open-source contribution project | `Markdown` `Git` |
 
 ---
-
 ## 📊 GitHub Stats
-
-<div align="center">
-</div>
 
 <div align="center">
   <a href="https://github.com/gokulsanjayreddy">
@@ -94,27 +90,14 @@ class GokulSanjayReddy:
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark" alt="Repos per Language" />
-  </a>
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark" alt="Most Commit Language" />
-  </a>
-</div>
+<div align="center"><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark" alt="Repos per Language" /></a><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark" alt="Most Commit Language" /></a></div>
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulsanjayreddy&theme=dark" alt="Stats" />
-  </a>
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulsanjayreddy&theme=dark&utcOffset=5.3" alt="Productive Time" />
-  </a>
-</div>
+<div align="center"><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulsanjayreddy&theme=dark" alt="Stats" /></a><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulsanjayreddy&theme=dark&utcOffset=5.3" alt="Productive Time" /></a></div>
 
 <br />
+
 
 <div align="center">
   <a href="https://github.com/gokulsanjayreddy">
