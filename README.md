@@ -114,6 +114,69 @@ class GokulSanjayReddy:
 ## CODING ACTIVITY
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.02%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 5.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌆 Daytime                35 commits          ████████████░░░░░░░░░░░░░   49.30 % 
+🌃 Evening                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌙 Night                  11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Tuesday                  11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                16 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Thursday                 18 commits          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/06/2026 05:51:32 UTC
 <!--END_SECTION:waka-->
 
 ---
