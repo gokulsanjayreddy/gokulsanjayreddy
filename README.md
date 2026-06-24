@@ -109,3 +109,11 @@ class GokulSanjayReddy:
   </a>
 </div>
 
+---
+
+## CODING ACTIVITY
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
