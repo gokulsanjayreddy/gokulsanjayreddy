@@ -111,7 +111,7 @@ class GokulSanjayReddy:
 
 ---
 
-## CODING ACTIVITY
+## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
