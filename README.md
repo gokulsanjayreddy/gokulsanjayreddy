@@ -155,7 +155,9 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 mins              ██████████████████░░░░░░░   71.68 % 
+Git Config               1 min               ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -175,7 +177,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 01:15:25 UTC
+ Last Updated on 23/07/2026 01:22:24 UTC
 <!--END_SECTION:waka-->
 
 ---
