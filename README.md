@@ -97,14 +97,6 @@ class GokulSanjayReddy:
 
 <div align="center">
   <a href="https://github.com/gokulsanjayreddy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsanjayreddy&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages"/>
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/gokulsanjayreddy">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsanjayreddy&theme=dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true" alt="My GitHub activity graph" />
   </a>
 </div>
