@@ -90,10 +90,6 @@ class GokulSanjayReddy:
 
 <br />
 
-<div align="center"><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokulsanjayreddy&theme=dark" alt="Stats" /></a><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokulsanjayreddy&theme=dark&utcOffset=5.3" alt="Productive Time" /></a></div>
-
-<br />
-
 
 <div align="center">
   <a href="https://github.com/gokulsanjayreddy">
