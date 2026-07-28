@@ -77,13 +77,6 @@ class GokulSanjayReddy:
 
 <br />
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gokulsanjayreddy&hide_border=true&background=151515&ring=green&fire=green&currStreakLabel=green&sideLabels=e0e0e0&dates=888888&stroke=2d2d2d&currStreakNum=F0DEB4&sideNums=e0e0e0" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
 
 <div align="center"><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark" alt="Repos per Language" /></a><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark" alt="Most Commit Language" /></a></div>
 
