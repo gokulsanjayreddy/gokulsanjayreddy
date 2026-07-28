@@ -101,15 +101,17 @@ class GokulSanjayReddy:
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.69%20thousand%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.25%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.9 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2026
+> 🏆 86 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,21 +122,21 @@ class GokulSanjayReddy:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-🌆 Daytime                48 commits          ██████████░░░░░░░░░░░░░░░   41.03 % 
-🌃 Evening                42 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime                50 commits          ██████████░░░░░░░░░░░░░░░   41.67 % 
+🌃 Evening                43 commits          █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 34 commits          ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Wednesday                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 34 commits          ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 ```
 
 
@@ -142,11 +144,35 @@ Sunday                   19 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     39 mins             ███████████░░░░░░░░░░░░░░   44.42 % 
-JavaScript               23 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+HTML                     1 hr 7 mins         ██████████████░░░░░░░░░░░   54.40 % 
+JavaScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 58 mins (95.37%)
+
+✍️ 1,404 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 960,526 Input Tokens, 20,478 Output Tokens
+
+💵 $5.42 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 23 AI Prompts
+
+GPT                      1,276 lines         ██████████████████████░░░   86.16 % 
+Opus                     198 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Gemini                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 703 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -166,7 +192,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:26:53 UTC
+ Last Updated on 28/07/2026 01:14:17 UTC
 <!--END_SECTION:waka-->
 
 ---
