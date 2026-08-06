@@ -66,28 +66,6 @@ class GokulSanjayReddy:
 | [**DevLabs 2.0**](https://github.com/gokulsanjayreddy/DevLabs_2.0) | Open-source contribution — IIT Bhilai's DevLabs 2.0 event by OpenLake | `HTML` |
 | [**GitStartedWithUs v2**](https://github.com/gokulsanjayreddy/gitstartedwithus_v2) | Collaborative open-source contribution project | `Markdown` `Git` |
 
----
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulsanjayreddy&theme=dark" alt="Profile Details" />
-  </a>
-</div>
-
-<br />
-
-
-<div align="center"><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulsanjayreddy&theme=dark" alt="Repos per Language" /></a><a href="https://github.com/gokulsanjayreddy"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulsanjayreddy&theme=dark" alt="Most Commit Language" /></a></div>
-
-<br />
-
-
-<div align="center">
-  <a href="https://github.com/gokulsanjayreddy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulsanjayreddy&theme=dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true" alt="My GitHub activity graph" />
-  </a>
-</div>
 
 ---
 
