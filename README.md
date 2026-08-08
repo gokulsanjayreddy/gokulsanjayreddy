@@ -72,7 +72,41 @@ class GokulSanjayReddy:
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.45%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+🌆 Daytime                53 commits          ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌃 Evening                54 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 37 commits          ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     2 hrs 51 mins       ████████████████████░░░░░   78.90 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+CSV                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+```
 
 **I Mostly Code in HTML** 
 
@@ -91,7 +125,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:55:54 UTC
+ Last Updated on 08/08/2026 00:38:25 UTC
 <!--END_SECTION:waka-->
 
 ---
