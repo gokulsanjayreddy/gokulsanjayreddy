@@ -72,28 +72,28 @@ class GokulSanjayReddy:
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.45%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-🌆 Daytime                53 commits          █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌃 Evening                60 commits          ███████████░░░░░░░░░░░░░░   42.55 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                53 commits          █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Evening                61 commits          ███████████░░░░░░░░░░░░░░   42.96 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Thursday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Sunday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 
 
@@ -101,10 +101,10 @@ Sunday                   20 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     5 hrs 26 mins       █████████████████░░░░░░░░   67.88 % 
-Python                   1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Text                     3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.97 % 
+Python                   1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -124,7 +124,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 00:28:39 UTC
+ Last Updated on 17/08/2026 00:26:57 UTC
 <!--END_SECTION:waka-->
 
 ---
