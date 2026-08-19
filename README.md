@@ -72,7 +72,7 @@ class GokulSanjayReddy:
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,10 +101,9 @@ Sunday                   21 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     2 hrs 47 mins       █████████████░░░░░░░░░░░░   53.03 % 
-Python                   1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Text                     2 hrs 31 mins       █████████████░░░░░░░░░░░░   51.98 % 
+Python                   1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -124,7 +123,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 00:26:52 UTC
+ Last Updated on 19/08/2026 00:27:04 UTC
 <!--END_SECTION:waka-->
 
 ---
