@@ -101,9 +101,9 @@ Sunday                   21 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.98 % 
-Python                   1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.57 % 
-Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Python                   1 hr 15 mins        ████████████░░░░░░░░░░░░░   47.59 % 
+Text                     1 hr                ██████████░░░░░░░░░░░░░░░   38.42 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -123,7 +123,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:27:31 UTC
+ Last Updated on 21/08/2026 00:29:57 UTC
 <!--END_SECTION:waka-->
 
 ---
