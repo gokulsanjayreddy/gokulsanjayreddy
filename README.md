@@ -73,7 +73,7 @@ class GokulSanjayReddy:
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.43%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -102,11 +102,10 @@ Sunday                   24 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ███████████████░░░░░░░░░░   60.89 % 
-Text                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-CSV                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-TSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   3 hrs 36 mins       █████████████████░░░░░░░░   68.18 % 
+Text                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+CSV                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +125,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 01:47:54 UTC
+ Last Updated on 01/09/2026 02:11:22 UTC
 <!--END_SECTION:waka-->
 
 ---
