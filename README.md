@@ -75,26 +75,26 @@ class GokulSanjayReddy:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.43%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌆 Daytime                52 commits          █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌃 Evening                63 commits          ███████████░░░░░░░░░░░░░░   43.45 % 
-🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                55 commits          █████████░░░░░░░░░░░░░░░░   36.91 % 
+🌃 Evening                63 commits          ███████████░░░░░░░░░░░░░░   42.28 % 
+🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Sunday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Monday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Thursday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Friday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Sunday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 ```
 
 
@@ -102,19 +102,21 @@ Sunday                   24 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       █████████████████░░░░░░░░   69.22 % 
-Text                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-CSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Python                   4 hrs 1 min         █████████████████░░░░░░░░   69.17 % 
+Text                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -124,7 +126,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 01:31:24 UTC
+ Last Updated on 05/09/2026 01:32:38 UTC
 <!--END_SECTION:waka-->
 
 ---
