@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="28" viewBox="0 0 96 28" role="img" aria-label="JUPYTER">
+  <title>JUPYTER</title>
+  <style>
+    :root { --chip-bg: #181717; --chip-fg: #ffffff; }
+    @media (prefers-color-scheme: dark) {
+      :root { --chip-bg: #30363d; --chip-fg: #ffffff; }
+    }
+    .chip-bg { fill: var(--chip-bg); }
+    .chip-fg { fill: var(--chip-fg); font-family: Verdana, "DejaVu Sans", Geneva, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1.6px; }
+  </style>
+  <rect class="chip-bg" x="0" y="0" width="96" height="28" rx="3"/>
+  <text class="chip-fg" x="48.8" y="18" text-anchor="middle">JUPYTER</text>
+</svg>

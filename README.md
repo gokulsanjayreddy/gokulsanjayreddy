@@ -1,72 +1,65 @@
 <div align="center">
 
-<!-- Typing SVG header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gokul+Sanjay+Reddy+%F0%9F%91%8B;AI-ML+Enthusiast+%7C+IIT+Bhilai)](https://git.io/typing-svg)
+<img src="assets/header.svg" alt="Gokul Sanjay Reddy, AI-ML Enthusiast, IIT Bhilai" width="100%">
 
+<br>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulsanjayreddychatrala/)
-&nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gsrposts)
-&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gokulsanjayreddy)
+<a href="https://www.linkedin.com/in/gokulsanjayreddychatrala/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"></a>&nbsp;
+<a href="https://x.com/gsrposts"><img src="assets/badges/x.svg" alt="X" height="28"></a>&nbsp;
+<a href="https://www.instagram.com/gokulsanjayreddy"><img src="assets/badges/instagram.svg" alt="Instagram" height="28"></a>&nbsp;
+<a href="https://gokulsanjayreddy.github.io/"><img src="assets/badges/portfolio.svg" alt="Portfolio" height="28"></a>
 
 </div>
 
 ---
 
-## 👤 About Me
+## About
 
-```python
-class GokulSanjayReddy:
-    name       = "Chatrala Gokul Sanjay Reddy"
-    location   = "Bhilai, India 🇮🇳"
-    institute  = "Indian Institute of Technology Bhilai"
-    focus      = ["Machine Learning", "Task Automation", "Data Analysis"]
-    languages  = ["Python", "Markdown", "HTML", "CSS"]
-    currently  = "Developing my ML skills 🎯"
-    open_to    = "Collaborations, open-source, and learning opportunities"
-```
+I am a student at the Indian Institute of Technology Bhilai, working on machine learning, data analysis and task automation. I like building tools that remove repetitive work and turn raw data into something people can use.
 
-- 🔭 **Currently** sharpening my ML & Data Science skills at **IIT Bhilai**
-- ⚡ **Passionate about** automating repetitive tasks and making workflows faster
-- 🌱 **Exploring** Python data libraries, Flask web apps, and ML pipelines
-- 🤝 **Open to** collaborating on Python / ML / Web projects
-- 📍 **Based in** Bhilai, India
+- Currently building my ML and data science foundation at IIT Bhilai
+- Focused on Python data libraries, Streamlit and Flask apps, and end-to-end ML pipelines
+- Open to collaboration on Python, ML and web projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
 
-### 📦 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="assets/badges/python.svg" alt="Python" height="28">&nbsp;
+<img src="assets/badges/html5.svg" alt="HTML5" height="28">&nbsp;
+<img src="assets/badges/css3.svg" alt="CSS3" height="28">
 
+### Libraries and Frameworks
 
-### 🧰 Version control & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="assets/badges/numpy.svg" alt="NumPy" height="28">&nbsp;
+<img src="assets/badges/pandas.svg" alt="Pandas" height="28">&nbsp;
+<img src="assets/badges/matplotlib.svg" alt="Matplotlib" height="28">&nbsp;
+<img src="assets/badges/scikit-learn.svg" alt="scikit-learn" height="28">&nbsp;
+<img src="assets/badges/streamlit.svg" alt="Streamlit" height="28">&nbsp;
+<img src="assets/badges/fastapi.svg" alt="FastAPI" height="28">&nbsp;
+<img src="assets/badges/flask.svg" alt="Flask" height="28">
+
+### Tools and Platforms
+
+<img src="assets/badges/git.svg" alt="Git" height="28">&nbsp;
+<img src="assets/badges/github.svg" alt="GitHub" height="28">&nbsp;
+<img src="assets/badges/jupyter.svg" alt="Jupyter" height="28">
+
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-| 🗂️ Project | 📝 Description | 🔧 Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**Concepts of Physics**](https://github.com/gokulsanjayreddy/Concepts_of_physics) | A website that helps students understand physics better through interactive content | `Python` `Flask` `HTML` `CSS` |
-| [**Data Analysis & Visualization**](https://github.com/gokulsanjayreddy/Data_Analysis-Visualization_libraries) | Practice exercises for core Python data science libraries | `Python` `Jupyter` `NumPy` `Pandas` `Matplotlib` |
-| [**HTML & CSS Basics**](https://github.com/gokulsanjayreddy/basics_of_HTML-CSS) | Personal collection of HTML & CSS practice projects | `HTML` `CSS` |
-| [**DevLabs 2.0**](https://github.com/gokulsanjayreddy/DevLabs_2.0) | Open-source contribution — IIT Bhilai's DevLabs 2.0 event by OpenLake | `HTML` |
-| [**GitStartedWithUs v2**](https://github.com/gokulsanjayreddy/gitstartedwithus_v2) | Collaborative open-source contribution project | `Markdown` `Git` |
+| [**AutoInsight**](https://github.com/gokulsanjayreddy/AutoInsight) | Automated data analyst. Upload a CSV and get a full exploratory analysis as individual charts, exportable as PNG or a single ZIP. [Live app](https://autoinsight-gokulsanjay.streamlit.app/) | `Python` `Streamlit` `Pandas` `Matplotlib` `Seaborn` |
+| [**Crop Recommendation System**](https://github.com/gokulsanjayreddy/crop-recommendation-system) | Two-stage ML pipeline that ranks the top three most profitable crops for a farmer using soil, location and season history. Prototype built on synthetic data. | `Python` `scikit-learn` `FastAPI` `SQLite` |
+| [**Concepts of Physics**](https://github.com/gokulsanjayreddy/Concepts_of_physics) | Website that helps students understand physics through interactive content. | `Python` `Flask` `HTML` `CSS` |
+| [**Data Analysis and Visualization**](https://github.com/gokulsanjayreddy/Data_Analysis-Visualization_libraries) | Practice notebooks covering the core Python data science libraries. | `Python` `Jupyter` `NumPy` `Pandas` `Matplotlib` |
+| [**Portfolio**](https://github.com/gokulsanjayreddy/gokulsanjayreddy.github.io) | Personal portfolio website. [Visit](https://gokulsanjayreddy.github.io/) | `HTML` `CSS` |
 
+---
 
 ---
 

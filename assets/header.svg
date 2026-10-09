@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132" role="img" aria-label="Gokul Sanjay Reddy, AI-ML Enthusiast, IIT Bhilai">
+  <title>Gokul Sanjay Reddy | AI-ML Enthusiast | IIT Bhilai</title>
+  <style>
+    :root {
+      --ink: #24292f;
+      --muted: #57606a;
+      --chip-bg: #181717;
+      --chip-fg: #ffffff;
+      --rule: #d0d7de;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ink: #f0f6fc;
+        --muted: #8b949e;
+        --chip-bg: #30363d;
+        --chip-fg: #ffffff;
+        --rule: #30363d;
+      }
+    }
+    .font { font-family: Verdana, "DejaVu Sans", Geneva, sans-serif; }
+    .title { fill: var(--ink); font-size: 34px; font-weight: 700; letter-spacing: 6px; }
+    .chip-bg { fill: var(--chip-bg); }
+    .chip-fg { fill: var(--chip-fg); font-size: 11px; font-weight: 700; letter-spacing: 1.6px; }
+    .rule { stroke: var(--rule); stroke-width: 1; }
+  </style>
+
+  <text class="font title" x="450" y="52" text-anchor="middle">GOKUL SANJAY REDDY</text>
+
+  <g transform="translate(0 74)">
+    <rect class="chip-bg" x="265" y="0" width="200" height="28" rx="3"/>
+    <text class="font chip-fg" x="365" y="18" text-anchor="middle">AI-ML ENTHUSIAST</text>
+
+    <rect class="chip-bg" x="473" y="0" width="162" height="28" rx="3"/>
+    <text class="font chip-fg" x="554" y="18" text-anchor="middle">IIT BHILAI</text>
+  </g>
+
+  <line class="rule" x1="40" y1="124" x2="860" y2="124"/>
+</svg>
