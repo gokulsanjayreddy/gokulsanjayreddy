@@ -24,7 +24,7 @@
     .rule { stroke: var(--rule); stroke-width: 1; }
   </style>
 
-  <text class="font title" x="450" y="52" text-anchor="middle">GOKUL SANJAY REDDY</text>
+  <text class="font title" x="450" y="52" text-anchor="middle">GOKUL SANJAY</text>
 
   <g transform="translate(0 74)">
     <rect class="chip-bg" x="265" y="0" width="200" height="28" rx="3"/>
