@@ -66,28 +66,28 @@ I am a student at the Indian Institute of Technology Bhilai, working on machine 
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.25%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.27%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-🌆 Daytime                65 commits          █████████░░░░░░░░░░░░░░░░   34.57 % 
-🌃 Evening                90 commits          ████████████░░░░░░░░░░░░░   47.87 % 
-🌙 Night                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌆 Daytime                65 commits          ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🌃 Evening                91 commits          ████████████░░░░░░░░░░░░░   47.15 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Tuesday                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Friday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Sunday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Monday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
@@ -95,11 +95,11 @@ Sunday                   27 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.95 % 
-Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Python                   2 hrs 43 mins       ██████████████░░░░░░░░░░░   55.45 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 03:14:28 UTC
+ Last Updated on 10/10/2026 02:53:49 UTC
 <!--END_SECTION:waka-->
 
 ---
