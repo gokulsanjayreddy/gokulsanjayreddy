@@ -66,7 +66,7 @@ I am a student at the Indian Institute of Technology Bhilai, working on machine 
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.14%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -95,11 +95,11 @@ Sunday                   27 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 52 mins       ██████████████░░░░░░░░░░░   57.45 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Python                   4 hrs 44 mins       ██████████████░░░░░░░░░░░   56.78 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 02:23:08 UTC
+ Last Updated on 12/10/2026 02:47:30 UTC
 <!--END_SECTION:waka-->
 
 ---
