@@ -95,11 +95,11 @@ Sunday                   27 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 44 mins       ██████████████░░░░░░░░░░░   56.78 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Python                   4 hrs 32 mins       ██████████████░░░░░░░░░░░   56.81 % 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 02:47:30 UTC
+ Last Updated on 13/10/2026 04:03:52 UTC
 <!--END_SECTION:waka-->
 
 ---
