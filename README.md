@@ -66,26 +66,26 @@ I am a student at the Indian Institute of Technology Bhilai, working on machine 
 ## 👨‍💻CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.34%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.14%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-🌆 Daytime                78 commits          ██████████░░░░░░░░░░░░░░░   41.71 % 
-🌃 Evening                73 commits          ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+🌆 Daytime                114 commits         ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌃 Evening                193 commits         ██████████████░░░░░░░░░░░   55.30 % 
+🌙 Night                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Sunday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  101 commits         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 
@@ -105,7 +105,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gokulsanjayreddy/gokulsanjayreddy/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 02:07:59 UTC
+ Last Updated on 24/10/2026 02:06:33 UTC
 <!--END_SECTION:waka-->
 
 ---
